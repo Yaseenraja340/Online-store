@@ -1,0 +1,19 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "online store"
+  },
+  "keywords": [
+    "qwerty"
+  ],
+  "author": "",
+  "license": "ISC"
+}
